@@ -18,8 +18,8 @@ Adafruit_PWMServoDriver pwm = Adafruit_PWMServoDriver();
 
 
 //WLAN-Config
-const char* ssid = "TRISTAN2412 6848"; //Your WIFI Name?
-const char* password = "y0M58;96"; //Your WIFI Password?
+const char* ssid = "FIXME"; //Your WIFI Name?
+const char* password = "FIXME"; //Your WIFI Password?
 
 //Host&Client
 WiFiClient client; //Feather as a client
